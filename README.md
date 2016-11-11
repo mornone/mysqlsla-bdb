@@ -104,3 +104,5 @@ http://www.gnu.org/copyleft/gpl.html
   [4]: http://github.com/kpumuk/mysqlsla-bdb/issues "Issues"
   [5]: http://hackmysql.com/mysqlsla_replays "mysqlsla v2 Replays"
   [6]: http://github.com/kpumuk/mysqlsla-bdb/commit/b54c30f19819cd34f1d45e2bd55811fac70bb002 "b54c30f"
+  
+MYSQL慢查询分析工具
